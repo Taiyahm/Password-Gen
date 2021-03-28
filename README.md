@@ -6,13 +6,6 @@
 
   This is an application where a user can enter certain criteria for a random password to be generated based off the chosen criteria.
 
-  ## Table of Contents
-
-  * [Installation](#Installation)
-  * [Usage](#Usage)
-  * [Licence](#Licence)
-  * [Questions](#question) 
-
   ## Technologies Used
   HTML,CSS,Javascript
 
