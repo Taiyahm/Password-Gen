@@ -9,7 +9,10 @@
   ## Technologies Used
   HTML,CSS,Javascript
 
-  ## Usage
+  ## Website
+  ![image](https://user-images.githubusercontent.com/72588525/113050478-df161e00-9172-11eb-9738-a534520b57cc.png)
+
+  
   
 
   ## License 
