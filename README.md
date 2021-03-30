@@ -13,7 +13,9 @@
   ![image](https://user-images.githubusercontent.com/72588525/113050478-df161e00-9172-11eb-9738-a534520b57cc.png)
   
   ![image](https://user-images.githubusercontent.com/72588525/113050604-040a9100-9173-11eb-8c25-5c915dfc11c7.png)
-
+  
+  ## Link
+  https://taiyahm.github.io/Password-Gen/
  
   ## License 
 
