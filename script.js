@@ -71,21 +71,3 @@ function writePassword() {
 
 // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword); 
-
-//var password = "";
-
-	//for ( var i = 0; i < passwordLength; i++) {
-		//if(includeNumber && password.length < passwordLength) {
-			//password += getRandom(numbers);
-		//}
-		//if(includeSymbols && password.length < passwordLength) {
-			//password += getRandom(symbols);
-		//}
-		//if(includeUpper && password.length < passwordLength) {
-			//password += getRandom(upper);
-	//	}
-		//if(includeLower && password.length < passwordLength) {
-			//password += getRandom(lower);
-		//}
-	//}
-	//return password;
