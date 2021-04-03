@@ -4,7 +4,7 @@
 
   ## Description
 
-  This is an application where a user can enter certain criteria for a random password to be generated based off the chosen criteria.
+  This is an application where a user can enter certain criteria for a random password to be generated based on the chosen criteria.
 
   ## Technologies Used
   HTML,CSS,Javascript
